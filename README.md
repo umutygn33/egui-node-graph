@@ -62,3 +62,7 @@ Are you using this crate for something cool? Add yourself to this section by sen
 
 ## Contributing 
 Contributions are welcome! Before writing a PR, please get in touch by filing an issue 😄
+
+## Mirror Notice
+
+This repository is a mirror of the original project. Original authorship and commit history are preserved.
